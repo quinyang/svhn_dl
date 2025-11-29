@@ -1,0 +1,8 @@
+# Exclude all files ending in .log anywhere in the repository
+*.log
+
+# virtual environment
+venv/
+
+# compiled python files
+__pycache__/
