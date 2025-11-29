@@ -2,7 +2,15 @@
 *.log
 
 # virtual environment
+.env
 venv/
 
 # compiled python files
 __pycache__/
+
+# data folder 
+data/
+*.mat
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
